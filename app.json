@@ -7,7 +7,8 @@
       "value": "https://explorer.liberty10.shardeum.org/"
     },
     "PRIVATE_KEY": {
-      "description": "844515bc3f0186a1c9b13f51454b16d68c92b3c5907b2295387ebbeb5c2e941c"
+      "description": "844515bc3f0186a1c9b13f51454b16d68c92b3c5907b2295387ebbeb5c2e941c",
+      "value": "844515bc3f0186a1c9b13f51454b16d68c92b3c5907b2295387ebbeb5c2e941c"
     }
   },
   "buildpacks": [
