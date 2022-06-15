@@ -3,11 +3,11 @@
   "repository": "https://github.com/chainflag/eth-faucet",
   "env": {
     "WEB3_PROVIDER": {
-      "description": "JSON-RPC endpoint uri to an Ethereum node",
-      "value": "https://ropsten.infura.io"
+      "description": "https://liberty10.shardeum.org/",
+      "value": "https://explorer.liberty10.shardeum.org/"
     },
     "PRIVATE_KEY": {
-      "description": "Private key hex string of the funding account"
+      "description": "844515bc3f0186a1c9b13f51454b16d68c92b3c5907b2295387ebbeb5c2e941c"
     }
   },
   "buildpacks": [
